@@ -1,0 +1,13 @@
+C:\Users\brett\Desktop\C#\Programs\Town Idea Generator CS\Town Idea Generator CS\obj\Debug\netcoreapp3.1\Town Idea Generator CS.csprojAssemblyReference.cache
+C:\Users\brett\Desktop\C#\Programs\Town Idea Generator CS\Town Idea Generator CS\obj\Debug\netcoreapp3.1\Town Idea Generator CS.AssemblyInfoInputs.cache
+C:\Users\brett\Desktop\C#\Programs\Town Idea Generator CS\Town Idea Generator CS\obj\Debug\netcoreapp3.1\Town Idea Generator CS.AssemblyInfo.cs
+C:\Users\brett\Desktop\C#\Programs\Town Idea Generator CS\Town Idea Generator CS\obj\Debug\netcoreapp3.1\Town Idea Generator CS.csproj.CoreCompileInputs.cache
+C:\Users\brett\Desktop\C#\Programs\Town Idea Generator CS\Town Idea Generator CS\bin\Debug\netcoreapp3.1\Town Idea Generator CS.exe
+C:\Users\brett\Desktop\C#\Programs\Town Idea Generator CS\Town Idea Generator CS\bin\Debug\netcoreapp3.1\Town Idea Generator CS.deps.json
+C:\Users\brett\Desktop\C#\Programs\Town Idea Generator CS\Town Idea Generator CS\bin\Debug\netcoreapp3.1\Town Idea Generator CS.runtimeconfig.json
+C:\Users\brett\Desktop\C#\Programs\Town Idea Generator CS\Town Idea Generator CS\bin\Debug\netcoreapp3.1\Town Idea Generator CS.runtimeconfig.dev.json
+C:\Users\brett\Desktop\C#\Programs\Town Idea Generator CS\Town Idea Generator CS\bin\Debug\netcoreapp3.1\Town Idea Generator CS.dll
+C:\Users\brett\Desktop\C#\Programs\Town Idea Generator CS\Town Idea Generator CS\bin\Debug\netcoreapp3.1\Town Idea Generator CS.pdb
+C:\Users\brett\Desktop\C#\Programs\Town Idea Generator CS\Town Idea Generator CS\obj\Debug\netcoreapp3.1\Town Idea Generator CS.dll
+C:\Users\brett\Desktop\C#\Programs\Town Idea Generator CS\Town Idea Generator CS\obj\Debug\netcoreapp3.1\Town Idea Generator CS.pdb
+C:\Users\brett\Desktop\C#\Programs\Town Idea Generator CS\Town Idea Generator CS\obj\Debug\netcoreapp3.1\Town Idea Generator CS.genruntimeconfig.cache

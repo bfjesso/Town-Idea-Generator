@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Town Idea Generator CS/1.0.0": {
+        "runtime": {
+          "Town Idea Generator CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Town Idea Generator CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
